@@ -1,0 +1,5 @@
+Resumen del Flujo de Trabajo
+Hacer Cambios: Realizas cambios en los archivos de tu proyecto.
+Preparar Cambios: Usas git add para preparar los archivos modificados para el commit.
+Guardar Cambios Localmente: Usas git commit para guardar los cambios en tu repositorio local.
+Actualizar el Repositorio Remoto: Usas git push para enviar esos cambios al repositorio remoto.
