@@ -1,10 +1,10 @@
 <?php
 #conexion con BD
 class Database {
-    private $host = 'localhost';
-    private $db_name = 'reservas_salasdeestudio';
-    private $username = 'root';
-    private $password = '';
+    private $host = "localhost"; // Servidor de la base de datos
+    private $db_name = "reservas_salasdeestudio"; // Nombre de tu base de datos
+    private $username = "root"; // Nombre de usuario (en XAMPP es root por defecto)
+    private $password = ""; // Contraseña (en XAMPP normalmente no hay contraseña por defecto)
     public $conn;
 
     public function getConnection() {
